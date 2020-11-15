@@ -116,6 +116,13 @@ img {
     color: var(--light);
 }
 
+.showcase .btn:hover {
+    background: var(--dark);
+    transform: scale(1.1);
+    display: inline-block;
+
+}
+
 /* Top Box */
 .top-box {
     background: var(--light);
